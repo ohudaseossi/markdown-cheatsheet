@@ -1,8 +1,8 @@
-Markdown Cheatsheet<a name="TOP"></a>
+ohudaseossi § Markdown Cheatsheet<a name="TOP"></a>
 ===================
 
 - - - - 
-# Heading 1 #
+# § Title 1 #
 
     Markup :  # Heading 1 #
 
@@ -10,7 +10,7 @@ Markdown Cheatsheet<a name="TOP"></a>
 
     Markup :  ============= (below H1 text)
 
-## Heading 2 ##
+## § Title 2 ##
 
     Markup :  ## Heading 2 ##
 
